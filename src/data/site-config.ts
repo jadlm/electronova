@@ -2,8 +2,8 @@ import { SiteConfig } from '@/lib/types';
 
 export const siteConfig: SiteConfig = {
   name: 'Maison Nova',
-  tagline: 'L\'électroménager & high-tech au Maroc',
-  description: 'Votre destination pour l\'électroménager, TV, téléphonie et équipement de la maison au Maroc. Livraison, installation et garantie incluses.',
+  tagline: 'Spécialiste de l\'électroménager au Maroc',
+  description: 'Votre spécialiste du gros et du petit électroménager au Maroc. Livraison, installation et garantie incluses.',
   url: 'https://maison-nova.ma',
   currency: 'MAD',
   currencySymbol: 'DH',
